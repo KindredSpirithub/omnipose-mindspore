@@ -2,4 +2,6 @@
 
 A mindspore inplementation version on omnipose
 
-we reached miou=74.77
+on COCO2017 dataset:
+
+we reached AP=74.77
